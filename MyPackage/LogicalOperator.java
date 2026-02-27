@@ -40,4 +40,24 @@ public class LogicalOperator {
 
 	}
 
+
+// 3> NOT (!)  :
+
+//     public static void main(String args[]) {
+//    	 
+//    	 
+//         System.out.println(!(false)); // true
+//         System.out.println(!(true)); // false
+//
+//         System.out.println(!(7 > 4)); // true
+//         System.out.println(!(8 == 9)); // true
+//         System.out.println(!(4 >= 0)); // false
+//         System.out.println(!(1 <= 3)); // false
+//         
+//         System.out.println(!(3 > 4) && 11 < 7);
+//         System.out.println(!(5 > 2 && 10 < 8));
+//         System.out.println(!(1 == 4) && 45 > 44 || !(10 < 8));
+//         System.out.println(true || true);  
+//     }
 }
+
